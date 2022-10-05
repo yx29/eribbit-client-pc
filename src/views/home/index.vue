@@ -1,6 +1,6 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <template>
-<!-- 一级路由 -->
-  <router-view></router-view>
+  <div>home页面</div>
 </template>
 
 <script>
